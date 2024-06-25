@@ -1,0 +1,54 @@
+.box-content {			
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--card-background);
+    padding-left: 1.25em;
+    white-space: nowrap;
+    height: 150px;
+    width: 290px;
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.selected-box{
+background-color: #1faeff;
+}
+
+
+.fa-thumbs-up,.fa-database,.fa-users{
+    font-size:64px
+}
+
+.header-container{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 5px;
+}
+
+.h-content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 15px;
+}
+
+.total-e:hover{
+    background-color: #1faeff;
+}
+
+.working-e:hover{
+    background-color: #1faeff;
+
+}
+.selected-e:hover{
+    background-color: #1faeff;
+
+}

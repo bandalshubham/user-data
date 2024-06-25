@@ -1,0 +1,14 @@
+.css-1wvake5 {
+    position: fixed !important;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-color: #efefef;
+    -webkit-transition: width,left,right,300ms;
+    transition: width,left,right,300ms;
+    width: 15% !important;
+    /* min-width: 250px; */
+    left: 20px;
+    background-color: #ffffff;
+    height: 97vh;
+    min-width: 15% !important;
+}

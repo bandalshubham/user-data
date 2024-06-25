@@ -1,0 +1,19 @@
+.card-views {
+  position: absolute;
+  top: 10px; /* Adjust the top position */
+  right: 10px; /* Adjust the right position */
+  background-color: var(--background);
+  color: #1faeff;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.card-views i {
+  font-size: 18px;
+}
+.container{
+  display: flex;
+  margin: 0 auto;
+}

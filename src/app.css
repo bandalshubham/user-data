@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    background-color: #e9e9e9;
+}
+
+.sidebar-container{
+    width: 20%;
+}
+
+.main-content{
+    width: 100%;
+
+}
+
